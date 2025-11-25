@@ -15,3 +15,4 @@ if ($ExitCode) {
 $Env:MyVariable
 $Parameter1
 $PSVersionTable
+#how  script works properly let me check
